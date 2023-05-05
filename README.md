@@ -5,7 +5,7 @@ Link to online course I was following to learn it(not affiliated): https://youtu
 
 
 chronological list of python files I created for practiced sub project -
-1 ritual.py
+1 ritual.py \n
 2 listRoughly.py - list
 3 CheckItemInList.py
 4 StillWorkingWithList.py
