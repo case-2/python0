@@ -10,5 +10,3 @@ chronological list of python files I created for practiced sub project -
 3 CheckItemInList.py
 4 StillWorkingWithList.py
 5 removingFromListUsingListComprehension.py - list comprehension
-6 introToListComprehension.py - list comprehension
-7 len.py - length of list
