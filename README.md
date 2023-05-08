@@ -13,3 +13,5 @@ chronological list of python files I created for practiced sub project -
 6 introToListComprehension.py - list comprehension
 7 len.py - length of list
 8 countingAnElementInList.py
+9 set.py - python sets
+10 countEachElementInList.py
