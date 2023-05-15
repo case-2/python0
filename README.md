@@ -20,3 +20,5 @@ chronological list of python files I created for practiced sub project -
 13 gettingRid.py - learnt using remove() and del
 14 pop.py
 15 slicingWithDel.py
+16 removingRepeats.py
+17 
