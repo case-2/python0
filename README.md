@@ -15,3 +15,6 @@ chronological list of python files I created for practiced sub project -
 8 countingAnElementInList.py
 9 set.py - python sets
 10 countEachElementInList.py
+11 counter.py
+12 insertIntoList.py
+13
