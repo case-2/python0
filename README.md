@@ -21,4 +21,4 @@ chronological list of python files I created for practiced sub project -
 14 pop.py
 15 slicingWithDel.py
 16 removingRepeats.py
-17 
+17 colonMagic.py - using [:] with a list
