@@ -17,4 +17,5 @@ chronological list of python files I created for practiced sub project -
 10 countEachElementInList.py
 11 counter.py
 12 insertIntoList.py
-13
+13 gettingRid.py - learnt using remove() and del
+14 
