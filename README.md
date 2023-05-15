@@ -18,5 +18,5 @@ chronological list of python files I created for practiced sub project -
 11 counter.py
 12 insertIntoList.py
 13 gettingRid.py - learnt using remove() and del
-14 pop
-15 
+14 pop.py
+15 slicingWithDel.py
